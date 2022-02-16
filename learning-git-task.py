@@ -12,3 +12,5 @@ for shop in shopping_list:
 print(f"W sumie kupuję {item_count} produktów")
 
 # second commit
+
+# third commit
