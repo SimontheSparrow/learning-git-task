@@ -10,3 +10,5 @@ for shop in shopping_list:
     print(
         f"Idę do {shop.title()} i kupuję tam {list(map(lambda x: x.title(), shopping_list[shop]))}")
 print(f"W sumie kupuję {item_count} produktów")
+
+# second commit
