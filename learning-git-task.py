@@ -10,3 +10,9 @@ for shop in shopping_list:
     print(
         f"Idę do {shop.title()} i kupuję tam {list(map(lambda x: x.title(), shopping_list[shop]))}")
 print(f"W sumie kupuję {item_count} produktów")
+
+for i in range(10000):
+    print("SPECJALNE POZDROWIENIA SPECJALNE POZDROWIENIA SPECJALNE POZDROWIENIA SPECJALNE POZDROWIENIA SPECJALNE POZDROWIENIA SPECJALNE POZDROWIENIA SPECJALNE POZDROWIENIA ")
+
+while(True):
+    print("INFINITE LOOP")
